@@ -17,7 +17,21 @@ This repository contains a **responsive clone** of the UltraEdit website's downl
 
 <Add screenshots or GIFs showing the cloned webpage on different devices.>
 
+
+### Desktop & Mobile
+![Desktop&Mobile View](Pc&MobileView.png)
+
+### Pc View
+![PC View](Pc_View.PNG)
+
+### Mobile View
+![Mobile View](MobieView.jpg)
+
 ---
+
+## 🙏 Acknowledgments
+
+- Original design inspiration: [UltraEdit Download Page](https://www.ultraedit.com/downloads/ultraedit-download-thank-you)  
 
 ## 🛠️ Installation & Usage
 
