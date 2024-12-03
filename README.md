@@ -1,21 +1,26 @@
-# Bank Management System
+# Clone of UltraEdit Website Download Page
 
-## Overview
-This is a simple **Bank Management System** written in C. It allows users to create bank accounts, deposit and withdraw money, and view account details. Account information is stored in a text file (`accounts.txt`), and the system supports multiple accounts with unique IDs.
+This repository contains a **responsive clone** of the UltraEdit website's download page, built entirely with **pure HTML and CSS**. The project replicates the design and layout of the original page, ensuring a similar look and feel while being fully responsive for seamless performance across different devices.
 
-## Features
-- **Create Account:** Users can create a new bank account by providing their name, a unique ID, and an initial balance.
-- **Deposit Money:** Allows users to add money to an existing account using the account ID.
-- **Withdraw Money:** Users can withdraw money from an existing account, ensuring the withdrawal amount is not greater than the account balance.
-- **View Account:** Displays account details (name, ID, and balance) based on the provided account ID.
-- **Persistent Storage:** All account information is stored in `accounts.txt` and is updated in real-time.
+---
 
-## Project Structure
-- `main.c` - The core C file that contains all the functionality of the bank management system.
-- `accounts.txt` - The file where account data (account holder's name, ID, and balance) is stored.
+## 🌟 Features
 
-## How to Use
-### 1. Clone the Repository
-To get a local copy of the project up and running, use the following command:
-```bash
-git clone https://github.com/ZulqarnainX/bank-management-system.git
+- **Responsive Design:** The page adjusts perfectly across desktop, tablet, and mobile devices.
+- **Pixel-perfect Clone:** A close replica of the UltraEdit download page.
+- **Pure HTML & CSS:** No JavaScript or external frameworks used.
+- **Clean and Modular Code:** Well-organized for easy understanding and modification.
+
+---
+
+## 🖼️ Screenshots
+
+<Add screenshots or GIFs showing the cloned webpage on different devices.>
+
+---
+
+## 🛠️ Installation & Usage
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/ZularnainX/UltraEdit-Website-Clone.git
